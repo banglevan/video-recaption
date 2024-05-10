@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI
 
 # chat = ChatOpenAI(temperature=0)
 
-chat = ChatOpenAI(temperature=0, openai_api_key="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")
+chat = ChatOpenAI(temperature=0, openai_api_key="...")
 
 
 template = (
