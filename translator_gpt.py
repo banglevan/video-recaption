@@ -1,7 +1,7 @@
 import openai
 
 # Set up your API key
-openai.api_key = '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'
+# openai.api_key = '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'
 # openai.api_key = "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"
 # Define your prompt
 # prompt = "Translate the following Chinese text to vietnamese: 我们非常开心由于您的到来"
