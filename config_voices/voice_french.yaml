@@ -1,0 +1,42 @@
+description: "the voice list of french"
+totals: 13
+voices:
+  vc01:
+    Name: fr-BE-CharlineNeural
+    Gender: Female
+  vc02:
+    Name: fr-BE-GerardNeural
+    Gender: Male
+  vc03:
+    Name: fr-CA-AntoineNeural
+    Gender: Male
+  vc04:
+    Name: fr-CA-JeanNeural
+    Gender: Male
+  vc05:
+    Name: fr-CA-SylvieNeural
+    Gender: Female
+  vc06:
+    Name: fr-CA-ThierryNeural
+    Gender: Male
+  vc07:
+    Name: fr-CH-ArianeNeural
+    Gender: Female
+  vc08:
+    Name: fr-CH-FabriceNeural
+    Gender: Male
+  vc09:
+    Name: fr-FR-DeniseNeural
+    Gender: Female
+  vc10:
+    Name: fr-FR-EloiseNeural
+    Gender: Female
+  vc11:
+    Name: fr-FR-HenriNeural
+    Gender: Male
+  vc12:
+    Name: fr-FR-RemyMultilingualNeural
+    Gender: Male
+  vc13:
+    Name: fr-FR-VivienneMultilingualNeural
+    Gender: Female

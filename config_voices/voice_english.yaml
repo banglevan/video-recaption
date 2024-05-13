@@ -1,0 +1,144 @@
+description: "the voice list of english"
+totals: 46
+voices:
+  vc01:
+    Name: en-AU-NatashaNeural
+    Gender: Female
+  vc02:
+    Name: en-AU-WilliamNeural
+    Gender: Male
+  vc03:
+    Name: en-CA-ClaraNeural
+    Gender: Female
+  vc04:
+    Name: en-CA-LiamNeural
+    Gender: Male
+  vc05:
+    Name: en-GB-LibbyNeural
+    Gender: Female
+  vc06:
+    Name: en-GB-MaisieNeural
+    Gender: Female
+  vc07:
+    Name: en-GB-RyanNeural
+    Gender: Male
+  vc08:
+    Name: en-GB-SoniaNeural
+    Gender: Female
+  vc09:
+    Name: en-GB-ThomasNeural
+    Gender: Male
+  vc10:
+    Name: en-HK-SamNeural
+    Gender: Male
+  vc11:
+    Name: en-HK-YanNeural
+    Gender: Female
+  vc12:
+    Name: en-IE-ConnorNeural
+    Gender: Male
+  vc13:
+    Name: en-IE-EmilyNeural
+    Gender: Female
+  vc14:
+    Name: en-IN-NeerjaExpressiveNeural
+    Gender: Female
+  vc15:
+    Name: en-IN-NeerjaNeural
+    Gender: Female
+  vc16:
+    Name: en-IN-PrabhatNeural
+    Gender: Male
+  vc17:
+    Name: en-KE-AsiliaNeural
+    Gender: Female
+  vc18:
+    Name: en-KE-ChilembaNeural
+    Gender: Male
+  vc19:
+    Name: en-NG-AbeoNeural
+    Gender: Male
+  vc20:
+    Name: en-NG-EzinneNeural
+    Gender: Female
+  vc21:
+    Name: en-NZ-MitchellNeural
+    Gender: Male
+  vc22:
+    Name: en-NZ-MollyNeural
+    Gender: Female
+  vc23:
+    Name: en-PH-JamesNeural
+    Gender: Male
+  vc24:
+    Name: en-PH-RosaNeural
+    Gender: Female
+  vc25:
+    Name: en-SG-LunaNeural
+    Gender: Female
+  vc26:
+    Name: en-SG-WayneNeural
+    Gender: Male
+  vc27:
+    Name: en-TZ-ElimuNeural
+    Gender: Male
+  vc28:
+    Name: en-TZ-ImaniNeural
+    Gender: Female
+  vc29:
+    Name: en-US-AnaNeural
+    Gender: Female
+  vc30:
+    Name: en-US-AndrewMultilingualNeural
+    Gender: Male
+  vc31:
+    Name: en-US-AndrewNeural
+    Gender: Male
+  vc32:
+    Name: en-US-AriaNeural
+    Gender: Female
+  vc33:
+    Name: en-US-AvaMultilingualNeural
+    Gender: Female
+  vc34:
+    Name: en-US-AvaNeural
+    Gender: Female
+  vc35:
+    Name: en-US-BrianMultilingualNeural
+    Gender: Male
+  vc36:
+    Name: en-US-BrianNeural
+    Gender: Male
+  vc37:
+    Name: en-US-ChristopherNeural
+    Gender: Male
+  vc38:
+    Name: en-US-EmmaMultilingualNeural
+    Gender: Female
+  vc39:
+    Name: en-US-EmmaNeural
+    Gender: Female
+  vc01:
+    Name: en-US-EricNeural
+    Gender: Male
+  vc40:
+    Name: en-US-GuyNeural
+    Gender: Male
+  vc41:
+    Name: en-US-JennyNeural
+    Gender: Female
+  vc42:
+    Name: en-US-MichelleNeural
+    Gender: Female
+  vc43:
+    Name: en-US-RogerNeural
+    Gender: Male
+  vc44:
+    Name: en-US-SteffanNeural
+    Gender: Male
+  vc45:
+    Name: en-ZA-LeahNeural
+    Gender: Female
+  vc46:
+    Name: en-ZA-LukeNeural
+    Gender: Male

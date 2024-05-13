@@ -1,0 +1,99 @@
+description: "the voice list of arabic"
+totals: 32
+voices:
+  vc01:
+    Name: ar-AE-FatimaNeural
+    Gender: Female
+  vc02:
+    Name: ar-AE-HamdanNeural
+    Gender: Male
+  vc03:
+    Name: ar-BH-AliNeural
+    Gender: Male
+  vc04:
+    Name: ar-BH-LailaNeural
+    Gender: Female
+  vc05:
+    Name: ar-DZ-AminaNeural
+    Gender: Female
+  vc06:
+    Name: ar-DZ-IsmaelNeural
+    Gender: Male
+  vc07:
+    Name: ar-EG-SalmaNeural
+    Gender: Female
+  vc08:
+    Name: ar-EG-ShakirNeural
+    Gender: Male
+  vc09:
+    Name: ar-IQ-BasselNeural
+    Gender: Male
+  vc10:
+    Name: ar-IQ-RanaNeural
+    Gender: Female
+  vc11:
+    Name: ar-JO-SanaNeural
+    Gender: Female
+  vc12:
+    Name: ar-JO-TaimNeural
+    Gender: Male
+  vc13:
+    Name: ar-KW-FahedNeural
+    Gender: Male
+  vc14:
+    Name: ar-KW-NouraNeural
+    Gender: Female
+  vc15:
+    Name: ar-LB-LaylaNeural
+    Gender: Female
+  vc16:
+    Name: ar-LB-RamiNeural
+    Gender: Male
+  vc17:
+    Name: ar-LY-ImanNeural
+    Gender: Female
+  vc18:
+    Name: ar-LY-OmarNeural
+    Gender: Male
+  vc19:
+    Name: ar-MA-JamalNeural
+    Gender: Male
+  vc20:
+    Name: ar-MA-MounaNeural
+    Gender: Female
+  vc21:
+    Name: ar-OM-AbdullahNeural
+    Gender: Male
+  vc22:
+    Name: ar-OM-AyshaNeural
+    Gender: Female
+  vc23:
+    Name: ar-QA-AmalNeural
+    Gender: Female
+  vc24:
+    Name: ar-QA-MoazNeural
+    Gender: Male
+  vc25:
+    Name: ar-SA-HamedNeural
+    Gender: Male
+  vc26:
+    Name: ar-SA-ZariyahNeural
+    Gender: Female
+  vc27:
+    Name: ar-SY-AmanyNeural
+    Gender: Female
+  vc28:
+    Name: ar-SY-LaithNeural
+    Gender: Male
+  vc29:
+    Name: ar-TN-HediNeural
+    Gender: Male
+  vc30:
+    Name: ar-TN-ReemNeural
+    Gender: Female
+  vc31:
+    Name: ar-YE-MaryamNeural
+    Gender: Female
+  vc32:
+    Name: ar-YE-SalehNeural
+    Gender: Male

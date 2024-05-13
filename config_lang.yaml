@@ -1,0 +1,12 @@
+languages:
+  codes: ['English', 'Chinese', 'Spanish', 'German', 'Japanese', 'Korean', 'French', 'Arabic', 'Russian']
+voices:
+  english: 'voice_english.yaml'
+  chinese: 'voice_chinese.yaml'
+  spanish: 'voice_spanish.yaml'
+  german: 'voice_german.yaml'
+  japanese: 'voice_japanese.yaml'
+  korean: 'voice_korean.yaml'
+  french: 'voice_french.yaml'
+  arabic: 'voice_arabic.yaml'
+  russian: 'voice_russian.yaml'

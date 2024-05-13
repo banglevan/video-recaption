@@ -1,0 +1,45 @@
+description: "the voice list of chinese"
+totals: 14
+voices:
+  vc01:
+    Name: zh-CN-XiaoxiaoNeural
+    Gender: Female
+  vc02:
+    Name: zh-CN-XiaoyiNeural
+    Gender: Female
+  vc03:
+    Name: zh-CN-YunjianNeural
+    Gender: Male
+  vc04:
+    Name: zh-CN-YunxiNeural
+    Gender: Male
+  vc05:
+    Name: zh-CN-YunxiaNeural
+    Gender: Male
+  vc06:
+    Name: zh-CN-YunyangNeural
+    Gender: Male
+  vc07:
+    Name: zh-CN-liaoning-XiaobeiNeural
+    Gender: Female
+  vc08:
+    Name: zh-CN-shaanxi-XiaoniNeural
+    Gender: Female
+  vc09:
+    Name: zh-HK-HiuGaaiNeural
+    Gender: Female
+  vc10:
+    Name: zh-HK-HiuMaanNeural
+    Gender: Female
+  vc11:
+    Name: zh-HK-WanLungNeural
+    Gender: Male
+  vc12:
+    Name: zh-TW-HsiaoChenNeural
+    Gender: Female
+  vc13:
+    Name: zh-TW-HsiaoYuNeural
+    Gender: Female
+  vc14:
+    Name: zh-TW-YunJheNeural
+    Gender: Male

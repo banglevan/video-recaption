@@ -1,12 +1,10 @@
 import time
 import os
 import pandas as pd
-from numpy.core._multiarray_tests import npy_carg
 
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 import cv2
 import numpy as np
-from translator_llama2 import inference as zhvi_translator
 # from translator_gpt import openai_translator as zhvi_translator
 # from translator_langchain import translator_lc as zhvi_translator
 from paddleocr import PaddleOCR
